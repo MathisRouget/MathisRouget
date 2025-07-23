@@ -6,7 +6,7 @@ I'm a French MEng student at [CentraleSupélec 🇫🇷](https://www.centralesup
 
 I'm currently working on exciting projects as a software engineer at [Paris Digital Lab](https://paris-digital-lab.com/), a gap year program where I'm prototyping multiple companies' most innovative projects! 🚀
 
-During one year, I was member of [🛜 ViaRézo](https://viarezo.fr), France's largest student ISP & CP, operating 200+ servers and delivering a high-speed internet access to 2500+ clients.
+During one year, I was member of [ViaRézo 🛜 ](https://viarezo.fr), France's largest student ISP & CP, operating 200+ servers and delivering a high-speed internet access to 2500+ clients.
 
 I'm passionate about full-stack software development and currently learning cybersecurity to specialize in it during my final year of studies after a gap year.
 
