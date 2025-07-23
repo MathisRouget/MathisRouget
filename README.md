@@ -2,11 +2,11 @@
 
 ## 🤖 About me
 
-I'm a French MEng student at [CentraleSupélec 🇫🇷](https://www.centralesupelec.fr/en) ([Paris-Saclay University](https://www.universite-paris-saclay.fr/en), 12th in the [Shanghai Ranking](https://www.shanghairanking.com/rankings/arwu/2024) of world universities).
+I'm a French MEng student at [CentraleSupélec](https://www.centralesupelec.fr/en) 🇫🇷 ([Paris-Saclay University](https://www.universite-paris-saclay.fr/en), 12th in the [Shanghai Ranking](https://www.shanghairanking.com/rankings/arwu/2024) of world universities).
 
 I'm currently working on exciting projects as a software engineer at [Paris Digital Lab](https://paris-digital-lab.com/), a gap year program where I'm prototyping multiple companies' most innovative projects! 🚀
 
-During one year, I was member of [ViaRézo 🛜 ](https:///viarezo.fr/en/), France's largest student ISP & CP, operating 200+ servers and delivering a high-speed internet access to 2500+ clients.
+During one year, I was member of [ViaRézo](https:///viarezo.fr/en/) 🛜 , France's largest student ISP & CP, operating 200+ servers and delivering a high-speed internet access to 2500+ clients.
 
 I'm passionate about full-stack software development and currently learning cybersecurity to specialize in it during my final year of studies after a gap year.
 
