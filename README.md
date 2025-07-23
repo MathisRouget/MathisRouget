@@ -16,7 +16,7 @@ I'm passionate about full-stack software development and currently learning cybe
 
 - 🚄 [SNCF MCP](#), a project commissioned by [SNCF](https://www.groupe-sncf.com/fr) for the Paris Digital Lab. We developed a custom MCP server interfacing with train APIs, along with dynamic UI components to display real-time data.
 
-- 🏉 [Centrale7](https://centrale7.fr), a complete redesign of the showcase site for [Centrale7](https:/centrale7.fr), the [CentraleSupélec](https://www.centralesupelec.fr/en/) international rugby sevens tournament, including management tools for tournament results and team data.
+- 🏉 [Centrale7](https://centrale7.fr), a complete redesign of the showcase site for [CentraleSevens](https://centrale7.fr/centralesevens), the CentraleSupélec international rugby sevens tournament, including management tools for tournament results and team data.
 
 - 🍿 [CinematiCS](https://github.com/MathisRouget/cinematics), a one-week student project to build a movie recommendation system using collaborative filtering techniques.
 
