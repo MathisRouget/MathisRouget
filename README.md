@@ -12,7 +12,7 @@ I'm passionate about full-stack software development and currently learning cybe
 
 ## 📦 Projects
 
-- ✉️ [Messages](https://github.com/suitenumerique/messages), an open-source project initiated by French Interministerial Directorate for Digital Affairs ([DINUM](https://www.numerique.gouv.fr/numerique-etat/dinum)) as part of [La Suite Numérique](https://lasuite.numerique.gouv.fr/en). I contributed AI-powered features such as email thread summarization and response generation.
+- ✉️ [Messages](https://github.com/suitenumerique/messages), an open-source project initiated by French Interministerial Directorate for Digital Affairs ([DINUM](https://www.numerique.gouv.fr/numerique-etat/dinum)) as part of [La Suite Numérique](https://lasuite.numerique.gouv.fr/en). I contributed AI-powered features such as email thread summarization and response generation ([PR #286](https://github.com/suitenumerique/messages/pull/286))
 
 - 🚄 [SNCF MCP](#), a project commissioned by [SNCF](https://www.groupe-sncf.com/fr) for the Paris Digital Lab. We developed a custom MCP server interfacing with train APIs, along with dynamic UI components to display real-time data.
 
